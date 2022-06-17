@@ -21,3 +21,28 @@ header p {
   margin: 0 5% 30px 5%;
   text-align: center;
 }
+
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 31%;
+  height: 300px;
+  box-sizing: border-box;
+  border: 2px dashed white;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 1%
+}
+
+footer {
+  justify-content: center;
+  text-align: center;
+}
+
+@media screen {
+  
+}
