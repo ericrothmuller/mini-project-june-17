@@ -38,6 +38,10 @@ header p {
   margin: 1%
 }
 
+.card code {
+  user-select: text;
+}
+
 footer {
   justify-content: center;
   text-align: center;
