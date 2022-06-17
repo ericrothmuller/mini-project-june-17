@@ -34,7 +34,7 @@ header p {
 
 .card {
   width: 31%;
-  height: 300px;
+  height: 60vh;
   box-sizing: border-box;
   border: 2px dashed white;
   border-radius: 5px;
@@ -48,7 +48,7 @@ header p {
 .card code {
   user-select: text;
   flex: 1;
-  background: linear-gradient(blue, purple);
+  background: linear-gradient(var(--blueviolet), purple);
   display: flex;
   align-items: center;
   margin: 5px;
