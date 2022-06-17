@@ -9,3 +9,15 @@ body {
   color: white;
   background-color: darkslategray;
 }
+
+h1 {
+  text-align: center;
+  font-size: 300%;
+  color: blueviolet;
+  margin: 20px 0;
+}
+
+header p {
+  margin: 0 5% 30px 5%;
+  text-align: center;
+}
