@@ -1,3 +1,7 @@
+:root {
+  --blueviolet: #8A2BE2;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +17,7 @@ body {
 h1 {
   text-align: center;
   font-size: 300%;
-  color: blueviolet;
+  color: var(--blueviolet);
   margin: 20px 0;
 }
 
